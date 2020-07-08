@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 dialog.setTitle("ERRORE");
                 dialog.setMessage("username non valido");
                 dialog.show();*/
-                Dialog dialog=new Dialog();
+                //Dialog dialog=new Dialog();
                 /*dialog.setContentView(R.layout.dialog1);
 
 
